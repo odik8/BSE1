@@ -6,6 +6,7 @@ void main() {
   print(randomBoll());
   print(randomDouble());
   print(randomString(10));
+  print('Hola world!');
 }
 
 sum(int a, int b) => a + b;
